@@ -71,7 +71,7 @@ A list a tools and references that are useful for a DevOps engineer. This isn't 
 ## Manage K8s
 - k9s - https://github.com/derailed/k9s
 
-## Chaos Engineering for k8s
+## Chaos Engineering for k8s
 - Kube Monkey - https://github.com/asobti/kube-monkey 
 - Litmus - https://litmuschaos.io/ 
 
