@@ -62,7 +62,7 @@ A list a tools and references that are useful for a DevOps engineer. This isn't 
 - GitVersion - https://gitversion.net/
 - Yor - https://github.com/bridgecrewio/yor
 
-## Cost
+## Cost
 - InfraCost - https://github.com/infracost/infracost
 
 ## Boilerplate
